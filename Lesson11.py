@@ -119,3 +119,13 @@ print(len(num2))
 
 count2 = sum(1 for item in num_list if item%2==0)
 print(count2)
+
+# -------------------------Luyện tập-----------------------
+# Bài 1: Nhập 2 thông tin: họ, tên. In ra màn hình tên đầy đủ
+
+# Bài 2: Nhập vào 1 xâu ký tự định dạng dd/mm/yyyy (01/08/2024)
+    # Tách ngày, tháng, năm và hiển thị ra màn hình
+
+# Bài 3: Nhập vào thông tin dạng username:password
+    # kiểm tra xem thông tin vừa nhập có trùng với thông tin có sẵn
+    # YC2: bắt người dùng nhập đến khi nào trùng username và password thì kết thúc
